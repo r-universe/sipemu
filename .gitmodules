@@ -5,6 +5,3 @@
 [submodule "CaseBasedReasoning"]
 	path = CaseBasedReasoning
 	url = https://github.com/sipemu/case-based-reasoning
-[submodule "fdars"]
-	path = fdars
-	url = https://github.com/sipemu/fdars-r
